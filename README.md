@@ -1,4 +1,4 @@
-# ProjectRep
+# README
 For the CSIS Project
 Disease Simulation:
 Greetings everyone. As you are already aware, Diseases have been a part of our history for a very long time. Throughout history, there has been no greater threat, other than ourselves, to humanity. While many know the dangers, 
